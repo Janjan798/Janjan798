@@ -22,11 +22,3 @@ I'm a novice coder currently in college building my knowledge of the digital wor
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Janjan798&theme=cobalt&border_radius=4.5) -->
 
-#
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-    -STARTED WITH JAVA IN 6TH GRADE <br>
-    -C IN 9TH GRADE <br>
-    -PYTHON IN 11TH GRADE <br>
-    -MYSQL IN 12TH GRADE <br>
-    -HAVEN'T REALLY STARTED YET AND MORE IS YET TO COME ...
